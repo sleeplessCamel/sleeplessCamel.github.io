@@ -7,11 +7,9 @@ description = "Ramblings"
 
 paginate = 5
 summaryLength = 30
-
+favicon = "static/favicon.png"
+faviconIco = "static/favicon.png"
 [params]
-    favicon = "static/favicon.png"
-    faviconIco = "static/favicon.png"
-    
     showRss = false
     fontFamily = "Iosevka Nerd Font"
     titleFontFamily = "Iosevka Nerd Font"
