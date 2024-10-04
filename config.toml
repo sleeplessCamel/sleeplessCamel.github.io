@@ -1,0 +1,14 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Sleepless Camel'
+
+author = "Sleepless Camel"
+description = "Ramblings"
+
+favicon = "static/favicon.png"
+faviconIco = "static/favicon.png"
+
+showRss = false
+fontFamily = "Iosevka Nerd Font"
+titleFontFamily = "Iosevka Nerd Font"
+monospaceFontFamily = "Iosevka Nerd Font"
