@@ -5,10 +5,14 @@ title = 'Sleepless Camel'
 author = "Sleepless Camel"
 description = "Ramblings"
 
-favicon = "static/favicon.png"
-faviconIco = "static/favicon.png"
+paginate = 5
+summaryLength = 30
 
-showRss = false
-fontFamily = "Iosevka Nerd Font"
-titleFontFamily = "Iosevka Nerd Font"
-monospaceFontFamily = "Iosevka Nerd Font"
+[params]
+    favicon = "static/favicon.png"
+    faviconIco = "static/favicon.png"
+    
+    showRss = false
+    fontFamily = "Iosevka Nerd Font"
+    titleFontFamily = "Iosevka Nerd Font"
+    monospaceFontFamily = "Iosevka Nerd Font"
