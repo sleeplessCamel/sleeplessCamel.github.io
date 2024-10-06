@@ -1,3 +1,75 @@
+/* Iosevka Thin (100) */
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../../static/iosevka/files/iosevka-latin-100-normal.woff2') format('woff2'),
+         url('../../static/iosevka/files/iosevka-latin-100-normal.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Iosevka Extra Light (200) */
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../../static/iosevka/files/iosevka-latin-200-normal.woff2') format('woff2'),
+         url('../../static/iosevka/files/iosevka-latin-200-normal.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Iosevka Light (300) */
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../../static/iosevka/files/iosevka-latin-300-normal.woff2') format('woff2'),
+         url('../../static/iosevka/files/iosevka-latin-300-normal.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Iosevka Regular (400) */
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../../static/iosevka/files/iosevka-latin-400-normal.woff2') format('woff2'),
+         url('../../static/iosevka/files/iosevka-latin-400-normal.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Iosevka Medium (500) */
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../../static/iosevka/files/iosevka-latin-500-normal.woff2') format('woff2'),
+         url('../../static/iosevka/files/iosevka-latin-500-normal.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Iosevka Bold (700) */
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../../static/iosevka/files/iosevka-latin-700-normal.woff2') format('woff2'),
+         url('../../static/iosevka/files/iosevka-latin-700-normal.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* Iosevka Black (900) */
+@font-face {
+    font-family: 'Iosevka';
+    src: url('../../static/iosevka/files/iosevka-latin-900-normal.woff2') format('woff2'),
+         url('../../static/iosevka/files/iosevka-latin-900-normal.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
 {{ $colors := .Site.Data.colors | default dict }}
 
 $dark_bg:          {{ $colors.dark.bg         | default "#242629" }};
@@ -86,9 +158,9 @@ $light_sidebar_fg: {{ $colors.light.sidebar.fg | default "#121211" }};
 {{ end }}
 
 
-$main_font: {{ .Site.Params.fontFamily | default "Iosevka Nerd Font" }};
+$main_font: {{ .Site.Params.fontFamily | default "Iosevka" }};
 $title_font: {{ .Site.Params.titleFontFamily | default "$main_font" }};
-$mono_font: {{ .Site.Params.monospaceFontFamily | default "Iosevka Nerd Font" }};
+$mono_font: {{ .Site.Params.monospaceFontFamily | default "Iosevka" }};
 $symbols_font: "Symbols Nerd Font";
 $content_width: {{ .Site.Params.contentWidth | default "1000px" }};
 $border_radius: 10px;
