@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Sleepless Camel",
+  "short_name": "Sleepless Camel",
+  "start_url": "/",
+  "display": "standalone",
+  
+  
+  
+  "background_color": "#1e1e2e",
+  "theme_color": "#db5793"
+  
+  
+}
+

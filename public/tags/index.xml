@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><?xml-stylesheet href="/feed_style.xsl" type="text/xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="https://www.rssboard.org/media-rss">
+  <channel>
+    <title>Tags on Sleepless Camel</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Sleepless Camel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 11:23:40 +0530</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" /><icon>http://example.org/img/icon.svg</icon>
+    
+    
+    <item>
+      <title>art</title>
+      <link>http://example.org/tags/art/</link>
+      <pubDate>Sun, 06 Oct 2024 11:23:40 +0530</pubDate>
+      
+      <guid>http://example.org/tags/art/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+    
+    <item>
+      <title>Film Review</title>
+      <link>http://example.org/tags/film-review/</link>
+      <pubDate>Sat, 05 Oct 2024 02:27:41 +0530</pubDate>
+      
+      <guid>http://example.org/tags/film-review/</guid>
+      <description><![CDATA[]]></description>
+      
+    </item>
+    
+    
+  </channel>
+</rss>

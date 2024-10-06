@@ -11,7 +11,7 @@ i hate goats. i hope they all die.
 
 this was me, several moons ago. never doing that again.
 
-![](images/goat.jpg)
-![](images/goat.gif)
+![circa 2003, colorized](/images/goat.jpg)
+![animated](/images/goat.gif)
 
 Fuck goats. Fucking rectangle pupiled monsters.
