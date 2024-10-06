@@ -2,9 +2,7 @@
 title: "Dracula Sir"
 date: 2024-10-05T02:27:41+05:30
 tags:
-  - tag1
-  - tag2
-  - tag3
+  - Film Review
 image:
 comments: true
 ---
