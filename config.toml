@@ -14,3 +14,4 @@ faviconIco = "static/favicon.png"
     fontFamily = "Iosevka Nerd Font"
     titleFontFamily = "Iosevka Nerd Font"
     monospaceFontFamily = "Iosevka Nerd Font"
+    imageInArticlePreview = true
