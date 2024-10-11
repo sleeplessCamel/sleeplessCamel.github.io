@@ -19,7 +19,11 @@ comments: true
 - we have to keep telling the story, as storytellers, with all the life we have
 - TIL about kashful
 - nooooo google excel strikes here again 😭
-![dracula sir spotted](/content/images/post_pics/uma/Screenshot%20from%202024-10-11%2018-41-18.png)
+
+![dracula sir spotted](/images/post_pics/uma/Screenshot%20from%202024-10-11%2018-41-18.png)
+
+## dracula sir sighting
+
 - there's this ucky feeling i have tho. can i really lie like that. i don't think I'll be able to
 - fake festival was maybe fine. but fake mother feels too much
 - fucking hell Dracula sir does play hateable characters very well lol
