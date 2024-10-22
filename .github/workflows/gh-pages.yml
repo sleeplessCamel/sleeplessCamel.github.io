@@ -49,7 +49,7 @@ jobs:
       - name: Build
         env:
           HUGO_GOOGLEANALYTICS: ${{ secrets.GOOGLEANALYTICS }}
-        run: hugo --gc -v --minify --baseURL https://sleeplesscamel.github.io/
+        run: hugo --gc -v -s ./ --minify --baseURL https://sleeplesscamel.github.io/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
