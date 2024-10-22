@@ -1,0 +1,27 @@
+baseURL = 'https://sleeplessCamel.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+# required
+[build]
+  _merge = 'deep'
+
+# required
+[markup]
+  _merge = 'deep'
+
+# for better SEO
+[minify]
+  _merge = 'deep'
+
+# required module settings
+[module]
+[[module.mounts]]
+  source = 'assets'
+  target = 'assets'
+[[module.mounts]]
+  source = "hugo_stats.json"
+  target = "assets/watching/hugo_stats.json"
+[[module.imports]]
+  path="github.com/canstand/compost"
+
