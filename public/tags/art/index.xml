@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art on sleeplessCamel</title>
+    <link>http://localhost:1313/tags/art/</link>
+    <description>Recent content in Art on sleeplessCamel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 11:23:40 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Goat</title>
+      <link>http://localhost:1313/posts/goat/</link>
+      <pubDate>Sun, 06 Oct 2024 11:23:40 +0530</pubDate>
+      <guid>http://localhost:1313/posts/goat/</guid>
+      <description>&lt;p&gt;i hate goats. i hope they all die.&lt;/p&gt;&#xA;&lt;p&gt;this was me, several moons ago. never doing that again.&lt;/p&gt;&#xA;&lt;p&gt;&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;http://localhost:1313/content/images/post_pics/goat/goat.jpg&#34;&#xA;    &#xA;    &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    alt=&#34;circa 2003, colorized&#34;&#xA;    &#xA;  /&gt;&#xA;  &#xA;&lt;/figure&gt;&#xA;&#xA;&lt;figure&gt;&#xA;  &lt;img&#xA;    src=&#34;http://localhost:1313/content/images/post_pics/goat/goat.gif&#34;&#xA;    &#xA;    &#xA;    &#xA;    loading=&#34;lazy&#34;&#xA;    alt=&#34;animated&#34;&#xA;    &#xA;  /&gt;&#xA;  &#xA;&lt;/figure&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;Fuck goats. Fucking rectangle pupiled monsters.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
