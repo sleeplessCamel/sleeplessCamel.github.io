@@ -37,8 +37,8 @@ enableRobotsTXT = true
 
 [params]
   colorScheme = "auto"
-  logo = "images/favicon.png"
-  favicon = "images/favicon.png"
+  logo = "favicon.png"
+  favicon = "favicon.png"
 
 [params.homepage]
   showRecent = false
