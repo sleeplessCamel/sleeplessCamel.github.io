@@ -44,7 +44,7 @@ enableRobotsTXT = true
 [params.article]
   showBreadcrumbs = true
   showEdit = true
-  editURL = "https://github.com/canstand/compost/tree/main/exampleSite/content/"
+  editURL = "https://github.com/sleeplessCamel/sleeplessCamel.github.io/"
   editAppendPath = true
 
 [[menu.main]]
@@ -64,5 +64,5 @@ enableRobotsTXT = true
 
 [[menu.main]]
   name = "GitHub"
-  url = "https://github.com/canstand/compost"
+  url = "https://github.com/sleeplessCamel"
   weight = 30
