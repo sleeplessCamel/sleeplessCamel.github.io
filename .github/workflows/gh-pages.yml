@@ -49,11 +49,11 @@ jobs:
       - name: Build
         env:
           HUGO_GOOGLEANALYTICS: ${{ secrets.GOOGLEANALYTICS }}
-        run: hugo --gc -v -s ./exampleSite --minify --baseURL https://canstand.github.io/compost/
+        run: hugo --gc -v --minify --baseURL https://sleeplesscamel.github.io/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./exampleSite/public
+          publish_dir: ./public
