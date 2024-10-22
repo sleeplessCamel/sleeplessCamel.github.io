@@ -1,6 +1,8 @@
 baseURL = 'https://sleeplessCamel.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'sleeplessCamel'
+enableEmoji = true
+enableRobotsTXT = true
 
 # required
 [build]
@@ -25,3 +27,42 @@ title = 'My New Hugo Site'
 [[module.imports]]
   path="github.com/canstand/compost"
 
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  colorScheme = "auto"
+
+[params.homepage]
+  showRecent = false
+
+[params.article]
+  showBreadcrumbs = true
+  showEdit = true
+  editURL = "https://github.com/canstand/compost/tree/main/exampleSite/content/"
+  editAppendPath = true
+
+[[menu.main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[menu.main]]
+  name = "Tags"
+  pageRef = "tags"
+  weight = 20
+
+[[menu.main]]
+  name = "GitHub"
+  url = "https://github.com/canstand/compost"
+  weight = 30
