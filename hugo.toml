@@ -41,7 +41,7 @@ enableRobotsTXT = true
   favicon = "favicon.png"
 
 [params.homepage]
-  showRecent = false
+  showRecent = true
 
 [params.article]
   showBreadcrumbs = true
