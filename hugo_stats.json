@@ -53,6 +53,7 @@
       "2xl:block",
       "2xl:hidden",
       "absolute",
+      "active",
       "after:-z-10",
       "after:absolute",
       "after:backdrop-blur-xl",
@@ -94,6 +95,7 @@
       "dark:text-neutral-300",
       "dark:text-neutral-400",
       "dark:text-neutral-500",
+      "disabled",
       "divide-neutral-200",
       "divide-neutral-300",
       "divide-y",
@@ -188,6 +190,10 @@
       "overflow-y-auto",
       "p-2",
       "p-4",
+      "page-item",
+      "page-link",
+      "pagination",
+      "pagination-default",
       "pb-12",
       "pb-2",
       "pb-4",
@@ -264,11 +270,14 @@
     ],
     "ids": [
       "TableOfContents",
+      "being-a-storyteller",
       "dracula-sir-sighting",
       "fickle-as-the-wind",
       "just-not-sand",
       "retrospective",
-      "switchTheme"
+      "switchTheme",
+      "the-kinds-of-writing",
+      "this-is-not-a-diary"
     ]
   }
 }

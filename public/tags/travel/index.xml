@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Travel on sleeplessCamel</title>
+    <link>http://localhost:1313/tags/travel/</link>
+    <description>Recent content in Travel on sleeplessCamel</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Nov 2024 08:27:36 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/travel/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Road Trip to the City of Lakes, Part III: Of Palaces and Lakes</title>
+      <link>http://localhost:1313/posts/palacesandlakes/</link>
+      <pubDate>Sun, 03 Nov 2024 08:27:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/palacesandlakes/</guid>
+      <description>&lt;p&gt;a magical place.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Road Trip to the City of Lakes, Part II: The Courtyards of Yore</title>
+      <link>http://localhost:1313/posts/fateh/</link>
+      <pubDate>Fri, 01 Nov 2024 08:27:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/fateh/</guid>
+      <description>&lt;p&gt;Hi.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Road Trip to the City of Lakes, Part I: The Two Towers</title>
+      <link>http://localhost:1313/posts/twotowers/</link>
+      <pubDate>Mon, 28 Oct 2024 08:27:36 +0530</pubDate>
+      <guid>http://localhost:1313/posts/twotowers/</guid>
+      <description>&lt;p&gt;this was me.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
