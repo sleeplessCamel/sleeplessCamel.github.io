@@ -7,17 +7,33 @@
     
       <url>
             <loc>http://localhost:1313/posts/</loc>
-            <lastmod>2025-06-18T20:25:38+05:30</lastmod>
+            <lastmod>2025-08-10T00:49:58+05:30</lastmod>
           </url>
     
   
     
       <url>
             <loc>http://localhost:1313/</loc>
-            <lastmod>2025-06-18T20:25:38+05:30</lastmod>
+            <lastmod>2025-08-10T00:49:58+05:30</lastmod>
           </url>
     
   
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/witch/</loc>
+            <lastmod>2025-08-10T00:49:58+05:30</lastmod>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>http://localhost:1313/posts/aijuly/</loc>
+            <lastmod>2025-07-07T12:09:58+05:30</lastmod>
+          </url>
     
   
     
@@ -110,8 +126,6 @@
             <loc>http://localhost:1313/posts/everything/</loc>
             <lastmod>2024-11-02T23:25:22+05:30</lastmod>
           </url>
-    
-  
     
   
     
